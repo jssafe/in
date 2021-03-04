@@ -23531,7 +23531,7 @@ cr.plugins_.YYG_SDK = function(runtime)
 					window["YYGSDK"].__init__(channel_type,options);
 				}
 				js.id  = "YYGSDK";
-				js.src = 'https://h5gamessdk.yyggames.com/sdk/YYGSDK.js';
+				js.src = '';
 				fjs.parentNode.insertBefore(js, fjs);
 			}
 			__init__();
